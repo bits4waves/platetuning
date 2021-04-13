@@ -10,18 +10,17 @@
 :POSTID:   420
 :END:
 
-Greetings,
+[[./plate-tuning-sheet.jpg]]
 
-In a recent talk with a Luthier friend, he shared with me that plate tuning could get very tedious, because of the difficulties at each step to know exactly where to carve so as to obtain the desired impact on the final frequency.
+The plate tuning process may get very tedious because of the difficulties at each step to know exactly where to carve so as to obtain the desired impact on the final frequency.
 
-Reading some papers, I came across a very interesting one, by Alan Carruth, a former student of Carleen Hutchins (attached carruth1991plate.pdf). In this article, the author gives a diagram with the impacts that carving might have on several different regions on the plate.
+In a very interesting paper by Alan Carruth---a former student of Carleen Hutchins---the author gives a diagram with the impacts that carving might have on several different regions on the plate (1).
 
-I then compiled this information in a spreadsheet, where you can input the desired final frequencies for the plates, and then feed it with the current ones. Based on this information, the spreadsheet will show diagrams with the regions that could be carved in order to achieve the final desired frequencies.
+This information was compiled in a [[https://docs.google.com/spreadsheets/d/1flQmmzBa5rORl6uWclfxSgB1eQOwRGLfKLvUKZurYr0/copy][spreadsheet]], where you can input the desired final frequencies for the plates, and then feed it with the current ones.
+Based on this input, it will show diagrams with the regions that could be carved in order to achieve the final desired frequencies.
 
-My friend liked it so much, that he encouraged me to share it to the Luthier community, so I'm sharing here with you.
+*References*
 
-Please feel free to post any questions, criticism, and any feedback is appreciated.
+1. Alan Carruth.  Free Plate Tuning, Part Two: Violins.  In: Guild of American Luthiers, /The Big Red Book of American Lutherie/, pages 42--52, 1991--1993.
 
-Thanks for your attention!
-
-[[https://docs.google.com/spreadsheets/d/1flQmmzBa5rORl6uWclfxSgB1eQOwRGLfKLvUKZurYr0/copy][Prototype (Google Spreadsheet)]]
+# ./plate-tuning-sheet.jpg http://bits4waves.files.wordpress.com/2021/04/plate-tuning-sheet-8.jpg
